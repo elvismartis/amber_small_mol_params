@@ -1,6 +1,6 @@
 # AMBER SMALL MOLECULE PARAMETERS
 Small molecule parameters will be updated here to be directly used with GAFF in AMBER for molecular dynamics.
-Contributors
+Contributors 
 ELvis A. F. Martis, Apoorva Ugarkar and Evans C. Coutinho
 Molecular Simulations Group, 
 Department of Pharmaceutical Chemistry, 
